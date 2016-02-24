@@ -5,9 +5,10 @@ layout: post
 ---
 ![alt text](http://www.washington.edu/news/files/2013/07/seattlesummerclose-tile-300x158.jpg "UW and City of Seattle join 'Smart Cities' network") 
 
-The University of Washington and city of Seattle have joined a new national network of university-city partnerships that will work on “smart city” solutions as part of a new White House Smart Cities Initiative.
+The University of Washington and city of Seattle have joined a new national network of university-city partnerships that will work on “smart city” solutions as part of a new [White House Smart Cities Initiative](https://www.whitehouse.gov/the-press-office/2015/09/14/fact-sheet-administration-announces-new-smart-cities-initiative-help).
 
-The MetroLab Network, announced by the White House on Monday, consists of partnerships between research universities with expertise in engineering, robotics and computer science and cities looking to be test beds for 21st century solutions. Seattle Mayor Ed Murray and UW Interim President Ana Mari Cauce are one of 21 initial city-university teams to sign onto the collaboration.
+
+[The Metrolab Network](http://metrolab.heinz.cmu.edu/), announced by the White House on Monday, consists of partnerships between research universities with expertise in engineering, robotics and computer science and cities looking to be test beds for 21st century solutions. Seattle Mayor Ed Murray and UW Interim President Ana Mari Cauce are one of 21 initial city-university teams to sign onto the collaboration.
 
 “Great universities can’t succeed without great cities, and vice versa, and the University of Washington and Seattle are no different. Our faculty and students have a wealth of expertise and a passion for service that they’ll bring to this initiative,” Cauce said. “Together we will help our city become more just and inclusive, so that it can serve as a model for other communities around the nation.”
 
@@ -19,7 +20,7 @@ The Seattle/UW partnership will place an emphasis on innovations that create a m
 
 Participation in the MetroLab Network will require city and university partners to develop a memorandum of understanding between metro partners, designate representatives to maintain the collaboration and host an active set of research, development and deployment projects.
 
-The UW’s contribution will be spearheaded through the new Urban@UW initiative, which brings the work of UW researchers working on a wide spectrum of urban issues — from ecological design and better transportation tools to social work and earthquake preparedness — under one umbrella organization.
+The UW’s contribution will be spearheaded through the new [Urban@UW](http://urban.uw.edu) initiative, which brings the work of UW researchers working on a wide spectrum of urban issues — from ecological design and better transportation tools to social work and earthquake preparedness — under one umbrella organization.
 
 The UW will hold a kickoff event for Urban@UW on Oct. 29. Mayor Murray and Interim President Cauce will discuss the MetroLab Network and related projects at the event.
 
