@@ -3,7 +3,7 @@ title: UW initiative aims to tackle city, region’s most pressing urban issues
 date: 2015-10-27
 layout: post
 ---
-![alt text](http://www.washington.edu/news/files/2015/10/NextSeattle-750x500.jpg") 
+![alt text](http://www.washington.edu/news/files/2015/10/NextSeattle-750x500.jpg "Next Seattle Students") 
 
 In September 2015, CoMotion and Urban@UW organized NextSeattle, a four-day boot camp bringing together teams of students to tackle urban challenges in the University District.Conrado Tapado
 
