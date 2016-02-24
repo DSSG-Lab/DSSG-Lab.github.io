@@ -31,5 +31,5 @@ Using the resources available at the university, Urban@UW and the MetroLab Netwo
 
 For O’Mara, having a more nuanced understanding of the past, while keeping in mind the relationship between governments and markets and emphasizing academic engagement and partnerships within the public sector will be the keys to success within Urban@UW and the MetroLab Network.
 
-____
-Original post: (http://www.dailyuw.com/news/article_360d5e70-7ebf-11e5-8231-27a351d80331.html)
+****
+Original post: <http://www.dailyuw.com/news/article_360d5e70-7ebf-11e5-8231-27a351d80331.html>
