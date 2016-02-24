@@ -3,7 +3,9 @@ title: Two initiatives were launched in hopes of combating city’s most pressin
 date: 2015-10-29
 layout: post
 ---
-![alt text](http://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/5/69/569cb5fa-7ebf-11e5-8122-f36f9cee0f47/5632f3375d489.image.jpg?resize=300%2C200 "Urban@UW Launch with posters") On Thursday, two initiatives, Urban@UW and the MetroLab Network, were launched in an effort to combat the city’s most pressing urban issues. University of Washington President Ana Mari Cauce, Mayor Ed Murray, and Urban@UW Program Director Thaisa Way joined forces with a room full of university faculty and city officials to begin discussions and workshops on ways to solve challenges that face the city.
+![alt text](http://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/5/69/569cb5fa-7ebf-11e5-8122-f36f9cee0f47/5632f3375d489.image.jpg?resize=300%2C200 "Urban@UW Launch with posters") 
+
+On Thursday, two initiatives, Urban@UW and the MetroLab Network, were launched in an effort to combat the city’s most pressing urban issues. University of Washington President Ana Mari Cauce, Mayor Ed Murray, and Urban@UW Program Director Thaisa Way joined forces with a room full of university faculty and city officials to begin discussions and workshops on ways to solve challenges that face the city.
 
 Urban@UW brings together UW faculty from various departments in an effort to use their various backgrounds and knowledge to aid in solving problems that not only affect Seattle, but cities around the nation and the world.
 
