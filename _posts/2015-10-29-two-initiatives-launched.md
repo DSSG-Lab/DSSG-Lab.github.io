@@ -7,7 +7,7 @@ layout: post
 
 On Thursday, two initiatives, Urban@UW and the MetroLab Network, were launched in an effort to combat the city’s most pressing urban issues. University of Washington President Ana Mari Cauce, Mayor Ed Murray, and Urban@UW Program Director Thaisa Way joined forces with a room full of university faculty and city officials to begin discussions and workshops on ways to solve challenges that face the city.
 
-Urban@UW brings together UW faculty from various departments in an effort to use their various backgrounds and knowledge to aid in solving problems that not only affect Seattle, but cities around the nation and the world.
+[Urban@UW](http://urban.uw.edu) brings together UW faculty from various departments in an effort to use their various backgrounds and knowledge to aid in solving problems that not only affect Seattle, but cities around the nation and the world.
 
 The event allowed for workshops to take place that would start a dialogue on how to make the city wiser. Faculty members from all three of the UW’s campuses, along with local policy makers, broke out into six groups discussing climate change and environmental justice, disaster preparedness and response, food and economic disparity, growth and transportation, housing and poverty, and the MetroLab Network.
 
@@ -31,7 +31,7 @@ Using the resources available at the university, Urban@UW and the MetroLab Netwo
 
 “Cities are at a critical influxion point right now,” said Margaret O’Mara, associate professor in the Department of History. 
 
-For O’Mara, having a more nuanced understanding of the past, while keeping in mind the relationship between governments and markets and emphasizing academic engagement and partnerships within the public sector will be the keys to success within Urban@UW and the MetroLab Network.
+For O’Mara, having a more nuanced understanding of the past, while keeping in mind the relationship between governments and markets and emphasizing academic engagement and partnerships within the public sector will be the keys to success within [Urban@UW](http://urban.uw.edu) and the MetroLab Network.
 
 ****
 Original post: <http://www.dailyuw.com/news/article_360d5e70-7ebf-11e5-8231-27a351d80331.html>
