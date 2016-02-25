@@ -1,9 +1,9 @@
 ---
-title: UW, city of Seattle join ‘Smart Cities’ network
+title:UW, city of Seattle join ‘Smart Cities’ network
 date: 2015-09-14
 layout: post
 ---
-![alt text](http://www.washington.edu/news/files/2013/07/seattlesummerclose-tile-300x158.jpg "UW and City of Seattle join 'Smart Cities' network") 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/davereid/1469105658/in/photolist-3ePxVU-5cnyZj-joGSLh-qQucgp-rsPiUV-cCFx2u-cCFyTA-cCFyD1-joGiop-dNqcUo-jkrG9z-niFiky-jmnDPg-jmnG96-jmnGHc-jkvN79-jmpfWB-rsNh54-jkrFcV-dNqbJY-E1dtuN-dNqjtY-dNjJVi-dNjJnn-6Z5Fa7-7YhgRE-bza8zp-7Ye2kn-C8Ju82-dNqjmA-bza9g2-Cyd24n-D69zgv-dN4xdE-tyMtGh-joGZmS-joGZMb-dNqihY-nUCAjb-sCfyzR-bmfgSb-bmffw1-rMfaLa-rMaekF-rsVS1g-7YhjuQ-dMXX62-7YhhiC-dNjKVk-dMXXbV" title="Seattle, WA"><img src="https://farm2.staticflickr.com/1136/1469105658_e720550dd3_b.jpg" width="1024" height="768" alt="Seattle, WA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The University of Washington and city of Seattle have joined a new national network of university-city partnerships that will work on “smart city” solutions as part of a new [White House Smart Cities Initiative](https://www.whitehouse.gov/the-press-office/2015/09/14/fact-sheet-administration-announces-new-smart-cities-initiative-help).
 
