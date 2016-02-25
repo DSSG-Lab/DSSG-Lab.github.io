@@ -94,6 +94,9 @@ main.container, main.content > .container{
     list-style: none;
     font-family: 'Noto Serif';
     margin:2em 0 0;
+    
+    p{margin-bottom:1em;
+    }
 
     li{
         //border-bottom: 1px solid $grayLighter;
