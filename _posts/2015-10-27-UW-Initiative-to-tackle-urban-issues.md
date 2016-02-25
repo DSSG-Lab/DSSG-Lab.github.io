@@ -5,23 +5,23 @@ layout: post
 ---
 ![alt text](http://www.washington.edu/news/files/2015/10/NextSeattle-750x500.jpg "Next Seattle Students") 
 
-In September 2015, CoMotion and Urban@UW organized NextSeattle, a four-day boot camp bringing together teams of students to tackle urban challenges in the University District.Conrado Tapado
+In September 2015, [CoMotion](http:comotion.uw.edu) and [Urban@UW](http://urban.uw.edu) organized NextSeattle, a four-day boot camp bringing together teams of students to tackle urban challenges in the University District.
 
 When Thaisa Way put a call out last spring to see if University of Washington faculty members working on urban issues wanted to join forces, she wasn’t sure what the response would be.
 
 “There were a lot of people who said, ‘You’re not going to get anyone to show up,'” said Way, a UW associate professor of landscape architecture.
 
-But more than 80 people representing 12 of the UW’s colleges and schools turned up to the gathering, held on a Monday afternoon at the tail end of the quarter. The meeting launched the creation of Urban@UW, an interdisciplinary effort that has been incubating for more than three years to bring together UW researchers, Seattle officials and citizens to collaborate on the most pressing issues facing a rapidly growing city and region.
+But more than 80 people representing 12 of the UW’s colleges and schools turned up to the gathering, held on a Monday afternoon at the tail end of the quarter. The meeting launched the creation of [Urban@UW](http://urban.uw.edu), an interdisciplinary effort that has been incubating for more than three years to bring together UW researchers, Seattle officials and citizens to collaborate on the most pressing issues facing a rapidly growing city and region.
 
 There are more than 200 UW faculty members working on urban topics, Way said, from geographers using GIS technology to address the complexities of homelessness to data scientists working on transportation challenges to teams of researchers working on food access and Seattle’s minimum wage.
 
 Faculty members, particularly younger ones, are increasingly motivated by a desire for their work to have a real-world impact, Way said, and urban issues present a significant and compelling opportunity to make a difference in their own backyard, as well as around the globe.
 
-“I think the generation of faculty who have come into the university in the past decade want to be part of a larger effort,” said Way, Urban@UW’s executive director. “Urban issues are a very visceral, very present challenge and a remarkable opportunity. That’s the fantastic thing about cities — they’re both our problem and our answer.”
+“I think the generation of faculty who have come into the university in the past decade want to be part of a larger effort,” said Way, [Urban@UW](http://urban.uw.edu)’s executive director. “Urban issues are a very visceral, very present challenge and a remarkable opportunity. That’s the fantastic thing about cities — they’re both our problem and our answer.”
 
-Urban@UW will hold its kickoff event from 9 a.m. to 2:30 p.m. this Thursday, Oct. 29, at the Samuel E. Kelly Ethnic Cultural Center. The keynote speaker is Nathan Connolly, an associate professor at New York University who studies race, housing and poverty.
+[Urban@UW](http://urban.uw.edu) will hold its kickoff event from 9 a.m. to 2:30 p.m. this Thursday, Oct. 29, at the Samuel E. Kelly Ethnic Cultural Center. The keynote speaker is Nathan Connolly, an associate professor at New York University who studies race, housing and poverty.
 
-UW President Ana Mari Cauce and Seattle Mayor Ed Murray will discuss the new MetroLab Network, a partnership between the city and university spearheaded by UW’s eScience Institute and Urban@UW. The collaboration, part of the White House’s new Smart Cities initiative, will focus on infrastructure, service delivery to citizens, democratic governance and increased civic participation and data-driven policymaking.
+UW President Ana Mari Cauce and Seattle Mayor Ed Murray will discuss the new MetroLab Network, a partnership between the city and university spearheaded by UW’s eScience Institute and [Urban@UW](http://urban.uw.edu). The collaboration, part of the White House’s new Smart Cities initiative, will focus on infrastructure, service delivery to citizens, democratic governance and increased civic participation and data-driven policymaking.
 
 Following the presentations, more than 90 faculty members, city and county decision-makers and local stakeholders will brainstorm ideas for collaborative projects in six areas: disaster preparedness and response, food and economic disparity, housing and poverty, climate change and environmental justice, growth and transportation, and the MetroLab Network. Each topic will have a UW faculty lead and a designated community member going forward.
 
