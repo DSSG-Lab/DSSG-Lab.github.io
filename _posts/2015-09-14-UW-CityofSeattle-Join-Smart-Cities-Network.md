@@ -1,5 +1,5 @@
 ---
-title:UW, city of Seattle join ‘Smart Cities’ network
+title:UW, city of Seattle join Smart Cities network
 date: 2015-09-14
 layout: post
 ---
