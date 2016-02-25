@@ -25,7 +25,7 @@ UW President Ana Mari Cauce and Seattle Mayor Ed Murray will discuss the new Met
 
 Following the presentations, more than 90 faculty members, city and county decision-makers and local stakeholders will brainstorm ideas for collaborative projects in six areas: disaster preparedness and response, food and economic disparity, housing and poverty, climate change and environmental justice, growth and transportation, and the MetroLab Network. Each topic will have a UW faculty lead and a designated community member going forward.
 
-The goal, Urban@UW Program Manager Jen Davison said, is to develop pilot projects that will be launched over the coming year and supported by Urban@UW, anything from a series of conversations to a small-scale research project.
+The goal, [Urban@UW](http://urban.uw.edu) Program Manager Jen Davison said, is to develop pilot projects that will be launched over the coming year and supported by [Urban@UW](http://urban.uw.edu), anything from a series of conversations to a small-scale research project.
 
 “We don’t want to be too prescriptive for what they come up with,” Davison said. “We want these projects to be driven by the needs of the community and the capacities of our researchers and teachers.”
 
@@ -37,9 +37,9 @@ The effort will take a holistic approach, Way said, with the goal of fostering w
 
 “These problems are multifaceted, and that means cities can’t address housing without addressing where schools are, without addressing transportation, without addressing employment,” she said.
 
-Urban@UW received funding for three years from the UW Office of Research and is working in partnership with CoMotion, the UW’s innovation incubator, as well as with UW’s eScience Institute. Its headquarters are in Startup Hall, just off campus, and Davison is its sole employee.
+[Urban@UW](http://urban.uw.edu) received funding for three years from the UW Office of Research and is working in partnership with CoMotion, the UW’s innovation incubator, as well as with UW’s eScience Institute. Its headquarters are in Startup Hall, just off campus, and Davison is its sole employee.
 
-Way envisions Urban@UW becoming a hub that the mayor of Bellingham or an NGO in Bogota could tap into for expertise on a range of issues, and where urban scholars might come from around the world to build and gain knowledge that can be applied in other cities.
+Way envisions [Urban@UW](http://urban.uw.edu) becoming a hub that the mayor of Bellingham or an NGO in Bogota could tap into for expertise on a range of issues, and where urban scholars might come from around the world to build and gain knowledge that can be applied in other cities.
 
 “We want to be able to show that we can be a resource for more than Seattle,” she said. “I hope we can continue to build these partnerships so that in ten years, we’re an internationally recognized center for innovative urban research and practice.”
 ****
