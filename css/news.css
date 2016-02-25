@@ -19,7 +19,8 @@
 .postContent {
   padding-left: 5%;
 }
-.postContent h1{font-size:3em; border-bottom:none;
+.content.postContent h1{
+  font-size:3em; border-bottom:none;
 }
 
 .postContent ul{
