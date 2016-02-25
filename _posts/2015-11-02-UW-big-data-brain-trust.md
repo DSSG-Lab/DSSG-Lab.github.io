@@ -3,7 +3,6 @@ title: UW to co-lead West Coast ‘Big Data brain trust’ for NSF
 date: 2015-11-02
 layout: post
 ---
-![alt text](http://www.washington.edu/news/files/2015/11/Logo_eScience-stacked-002-copy-300x253.jpg "UW eScience Logo") 
 
 The National Science Foundation has selected the University of Washington, along with the University of California, San Diego and the University of California, Berkeley, to co-lead one of four Big Data Regional Innovation Hubs around the country.
 
