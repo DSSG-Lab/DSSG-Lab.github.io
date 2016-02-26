@@ -25,3 +25,21 @@ body {
 .content {
     margin-left: 3%;
 }
+
+
+.projectlist td {
+    width=200px;
+}
+
+.projectlist tr {
+   padding-bottom:100px;
+}
+
+.projectlist {
+  border-spacing: 40px;
+  border-collapse: separate;
+}
+
+.pagetitle {
+  font-size:32pt;
+}
